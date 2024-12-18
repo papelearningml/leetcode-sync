@@ -13,6 +13,8 @@ This approach ensures you can maintain a clean, centralized backup of your LeetC
 - **Version Control**: Keep track of changes over time. If you improve or refactor a solution, it will be updated in the repository.
 - **Metadata & Structure**: Each solution is stored in its own folder with a `README.md` and the solution code file.
 
+Check out the [repository with synced solutions here](https://github.com/papelearningml/LeetCode).
+
 ## Requirements
 
 - **Python 3.x** installed on your machine.
@@ -24,7 +26,7 @@ This approach ensures you can maintain a clean, centralized backup of your LeetC
 
 1. **Clone the Repository**:
 ```bash
-git clone https://github.com/<your_username>/leetcode-sync.git
+git clone https://github.com/papelearningml/leetcode-sync.git
 cd leetcode-sync
 ```
 
